@@ -1,7 +1,8 @@
 function myFunction() {
     document.getElementById("math").innerHTML = 11+12 ;
   } //*This is a CODE BLOCK within a function
-
+    // Change answer when button is clicked:
+    
     window.alert (8*9)
    //running an alert 
   
@@ -10,7 +11,6 @@ let lastname=" Mitchell"
 //This is a global
 
    document.getElementById("myname").innerHTML = 'Priscilla Mitchell'; 
- // Change answer when button is clicked:
  //changing property of dom element
  // element includes "strings"
 //outputing to the console log
